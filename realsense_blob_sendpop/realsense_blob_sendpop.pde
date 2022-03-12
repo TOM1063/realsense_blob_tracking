@@ -67,7 +67,6 @@ void setup(){
   strokeWeight(10);
   page = 1;
   
-  
   //UI
   setUI();
     
